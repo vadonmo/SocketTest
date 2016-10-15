@@ -6,22 +6,22 @@
 --------------------Configuration: TCPClient - Win32 Debug--------------------
 </h3>
 <h3>Command Lines</h3>
-Creating command line "rc.exe /l 0x804 /fo"Debug/TCPClient.res" /d "_DEBUG" /d "_AFXDLL" "F:\DEMO\C++\TCPClient\TCPClient.rc"" 
-Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPBC91.tmp" with contents
+Creating command line "rc.exe /l 0x804 /fo"Debug/TCPClient.res" /d "_DEBUG" /d "_AFXDLL" "F:\Demo\C++\vc6.0\SocketTest.git\trunk\TCPClient\TCPClient.rc"" 
+Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPE2BF.tmp" with contents
 [
 /nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/TCPClient.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"F:\DEMO\C++\TCPClient\MySocket.cpp"
-"F:\DEMO\C++\TCPClient\TCPClient.cpp"
-"F:\DEMO\C++\TCPClient\TCPClientDlg.cpp"
+"F:\Demo\C++\vc6.0\SocketTest.git\trunk\TCPClient\MySocket.cpp"
+"F:\Demo\C++\vc6.0\SocketTest.git\trunk\TCPClient\TCPClient.cpp"
+"F:\Demo\C++\vc6.0\SocketTest.git\trunk\TCPClient\TCPClientDlg.cpp"
 ]
-Creating command line "cl.exe @C:\Users\Vadon\AppData\Local\Temp\RSPBC91.tmp" 
-Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPBCB1.tmp" with contents
+Creating command line "cl.exe @C:\Users\Vadon\AppData\Local\Temp\RSPE2BF.tmp" 
+Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPE2C0.tmp" with contents
 [
 /nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/TCPClient.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
-"F:\DEMO\C++\TCPClient\StdAfx.cpp"
+"F:\Demo\C++\vc6.0\SocketTest.git\trunk\TCPClient\StdAfx.cpp"
 ]
-Creating command line "cl.exe @C:\Users\Vadon\AppData\Local\Temp\RSPBCB1.tmp" 
-Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPBCB2.tmp" with contents
+Creating command line "cl.exe @C:\Users\Vadon\AppData\Local\Temp\RSPE2C0.tmp" 
+Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPE2C1.tmp" with contents
 [
 /nologo /subsystem:windows /incremental:yes /pdb:"Debug/TCPClient.pdb" /debug /machine:I386 /out:"Debug/TCPClient.exe" /pdbtype:sept 
 ".\Debug\MySocket.obj"
@@ -30,7 +30,7 @@ Creating temporary file "C:\Users\Vadon\AppData\Local\Temp\RSPBCB2.tmp" with con
 ".\Debug\TCPClientDlg.obj"
 ".\Debug\TCPClient.res"
 ]
-Creating command line "link.exe @C:\Users\Vadon\AppData\Local\Temp\RSPBCB2.tmp"
+Creating command line "link.exe @C:\Users\Vadon\AppData\Local\Temp\RSPE2C1.tmp"
 <h3>Output Window</h3>
 Compiling resources...
 Compiling...
